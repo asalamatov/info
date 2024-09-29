@@ -36,13 +36,13 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software engineer with 2-years of experience in
+        I'm a software engineer in
         <strong> Full Stack Web Development </strong>
-        and <strong>Machine Learning</strong>. I am a junior student at
-        North American University, Houston, Texas.
+        and <strong>Machine/Deep Learning</strong>. As well as a PhD student in Computer Science at University of Cincinnati.
         I have expertise in
+        Deep Learning, Machine Learning, Computer Vision, and Quantum Computing,
         MERN Stack (MongoDB, Express, React, Node), Next.js, React Native,
-        Django, combined with Machine Learning Backend (TensorFlow),
+        Django,
         and programming languages like Python,
         JavaScript, Java and C++. I'm a quick
         learner and collaborate closely with clients to create

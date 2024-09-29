@@ -21,10 +21,10 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-6 text-white-100`}>
             <strong className="text-[#915eff]">
-              a AI Engineer and Full Stack Developer
+              an AI Research Engineer + Full Stack Developer
             </strong>{' '}
             <br className="sm:block hidden" />
-            and a PhD student in Computer Science at University of Cincinnati.
+            and a PhD student in Computer Science.
           </p>
         </div>
       </div>

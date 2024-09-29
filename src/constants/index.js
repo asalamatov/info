@@ -48,6 +48,7 @@ import {
     nau_badge,
     meta_backend_badge,
     meta_frontend_badge,
+    uc_logo,
 } from "../assets";
 
 export const badges = [
@@ -59,6 +60,7 @@ export const badges = [
   ibm_ful_stack_badge,
   nau_badge,
   meta_frontend_badge,
+  uc_logo,
 ]
 
   export const navLinks = [
@@ -78,15 +80,15 @@ export const badges = [
 
   const services = [
     {
-      title: "Full-Stack Developer",
+      title: "Data Scientist",
       icon: web,
     },
     {
-      title: "Automation Engineer",
+      title: "Full Stack Developer",
       icon: mobile,
     },
     {
-      title: "AI Engineer",
+      title: "PhD Researcher",
       icon: backend,
     },
     {
@@ -96,18 +98,18 @@ export const badges = [
   ];
 
   const technologies = [
-    {
-      name: "HTML 5",
-      icon: html,
-    },
-    {
-      name: "CSS 3",
-      icon: css,
-    },
-    {
-      name: "JavaScript",
-      icon: javascript,
-    },
+    // {
+    //   name: "HTML 5",
+    //   icon: html,
+    // },
+    // {
+    //   name: "CSS 3",
+    //   icon: css,
+    // },
+    // {
+    //   name: "JavaScript",
+    //   icon: javascript,
+    // },
     {
       name: "TypeScript",
       icon: typescript,

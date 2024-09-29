@@ -60,6 +60,7 @@ import nau_badge from './nau-tertiary-white-text.png';
 import ibm_ai_engineering_badge from './Professional_Certificate_-_AI_Engineering.png';
 import meta_backend_badge from './meta-backend.png';
 import meta_frontend_badge from './meta-front-end.png';
+import uc_logo from './uc_logo.png';
 
 export {
   logo,
@@ -115,5 +116,6 @@ export {
   meta_full_stack_badge,
   nau_badge,
   meta_frontend_badge,
-  meta_backend_badge
+  meta_backend_badge,
+  uc_logo
 };
