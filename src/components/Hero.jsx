@@ -21,10 +21,10 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-6 text-white-100`}>
             <strong className="text-[#915eff]">
-              a Full Stack AI Engineer with 4 years of experience
+              a AI Engineer and Full Stack Developer
             </strong>{' '}
             <br className="sm:block hidden" />
-            certified by Google, Meta, and IBM.
+            and a PhD student in Computer Science at University of Cincinnati.
           </p>
         </div>
       </div>
