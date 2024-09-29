@@ -8,6 +8,6 @@ import react from '@vitejs/plugin-react'
 
 //Set the correct base in vite.config.js.
 export default defineConfig({
-  base: '/',
+  base: '/info/',
   plugins: [react()],
 })
